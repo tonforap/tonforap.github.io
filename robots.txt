@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tonforap.github.io/sitemap.html.gz
+Sitemap: https://tonforap.github.io/app/sitemap.html.gz
+Sitemap: https://tonforap.github.io/assets/sitemap.html.gz
+Sitemap: https://tonforap.github.io/css/sitemap.html.gz
+Sitemap: https://tonforap.github.io/includes/sitemap.html.gz
+Sitemap: https://tonforap.github.io/item/sitemap.html.gz
+Sitemap: https://tonforap.github.io/src/sitemap.html.gz
